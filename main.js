@@ -1,4 +1,4 @@
-import Bruch from './Object.js';
+import Bruch from './Bruchrechnen.js';
 
 //console.log("Stärkste Firma war " + Firma[pos] + " mit einem Jahresumsatz von:\t\t" + maxUmsatz.toLocaleString("de-de"));
 
